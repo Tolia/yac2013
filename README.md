@@ -38,4 +38,4 @@
 --------------
 
 Забыл про шрифты и занял [26 место](https://github.com/yandex-cs/yac2013/blob/gh-pages/RESULTS.md)
-  
+http://tolia.github.io/yac2013/
