@@ -34,8 +34,10 @@
   - организаторы оставляют за собой право блокировать участников за неспортивное или неэтичное поведение.
 
 
-Результат
+Результат [tolia.github.io/yac2013](http://tolia.github.io/yac2013/)
 --------------
 
 Забыл про шрифты и занял [26 место](https://github.com/yandex-cs/yac2013/blob/gh-pages/RESULTS.md)
-http://tolia.github.io/yac2013/
+
+
+
